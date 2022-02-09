@@ -1,1 +1,4 @@
+
+LOCALE 3.0 
+
 questo è modificato
